@@ -12,7 +12,7 @@ Une webapp moderne et interactive présentant une agence de voyage temporel fict
 
 TimeTravel Agency est une expérience web immersive qui transporte les visiteurs à travers le temps. Cette webapp combine design premium, animations fluides et intelligence artificielle pour créer une expérience utilisateur exceptionnelle.
 
-**🔗 URL Déployée :** _(À compléter après déploiement sur Vercel)_
+**🔗 URL Déployée :** _https://timetravel-agency-ka9juvaln-maximefallek1-2369s-projects.vercel.app/_
 
 ---
 
@@ -343,16 +343,16 @@ timetravel-agency/
 
 ## 👥 Équipe
 
-**Développé par :** [Votre Nom]
-**École :** [Nom de l'école]
+**Développé par :** FALLEK Maxime - MOREL Oskar
+**École :** YNOV
 **Programme :** M1/M2 Digital & IA
-**Année :** 2024-2025
+**Année :** 2025-2026
 
 ---
 
 ## 📄 Licence
 
-Projet pédagogique - Tous droits réservés © 2025
+Projet pédagogique - Tous droits réservés © 2026
 
 **Technologies tierces sous leurs licences respectives :**
 
@@ -367,9 +367,9 @@ Projet pédagogique - Tous droits réservés © 2025
 
 Pour toute question sur le projet :
 
-- 📧 Email : [votre.email@example.com]
-- 🐙 GitHub : [lien_repo]
-- 💼 LinkedIn : [votre_profil]
+- 📧 Email : [maxime.fallek@ynov.com]
+- 📧 Email : [oskar.morel@ynov.com]
+- 🐙 GitHub : [https://github.com/maxime64100/chronos]
 
 ---
 
