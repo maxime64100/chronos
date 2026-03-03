@@ -12,9 +12,7 @@ Une webapp moderne et interactive présentant une agence de voyage temporel fict
 
 TimeTravel Agency est une expérience web immersive qui transporte les visiteurs à travers le temps. Cette webapp combine design premium, animations fluides et intelligence artificielle pour créer une expérience utilisateur exceptionnelle.
 
-**🔗 URL Déployée :** _https://timetravel-agency-ka9juvaln-maximefallek1-2369s-projects.vercel.app/_
-
----
+## URL Déployée : https://timetravel-agency-rho.vercel.app/ (Vercel)
 
 ## 🎯 Destinations Temporelles
 
